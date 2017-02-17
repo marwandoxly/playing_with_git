@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-bhfhkl;sdfjlrkglkjls ugghhhhhhhhhh
-
 this is a stupid file
-=======
->>>>>>> parent of 46be9b4... [stupid_file] added text to file1.txt
